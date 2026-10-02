@@ -117,9 +117,10 @@ This project was developed as part of my practical work in Data Analytics using 
 
 **Abderrahman El Harakani**
 
-**OutmanBAZ**
 
 Master's Student in Data Science  
 Data Analytics 
+
+**OutmanBAZ**
 
 [LinkedIn](https://shorturl.at/nfMqM)
